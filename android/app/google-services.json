@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "990778095292",
+    "project_id": "novalab-41e12",
+    "storage_bucket": "novalab-41e12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990778095292:android:d81fb16817350e850502b9",
+        "android_client_info": {
+          "package_name": "com.example.novalabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990778095292-6887mlu7ob6k3s0t090u5j42d4h78lvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.novalabs",
+            "certificate_hash": "1879ea4071739e44f846f033bd39a616a00ec539"
+          }
+        },
+        {
+          "client_id": "990778095292-8u0i2206q18fpnulpju1esldblqlktcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM_AA_m6sSrud5FeI2knersP4Kly0iCg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990778095292-8u0i2206q18fpnulpju1esldblqlktcq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990778095292-4h255t417nkqncnadh9mj0n5ts9opadf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.novalabs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
